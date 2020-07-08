@@ -1,0 +1,12 @@
+/Users/fatmasaal/Projects/CountdownConsole/CountdownConsole/Data/obj/Debug/netcoreapp3.1/ConsoleTest.csprojAssemblyReference.cache
+/Users/fatmasaal/Projects/CountdownConsole/CountdownConsole/Data/obj/Debug/netcoreapp3.1/ConsoleTest.AssemblyInfoInputs.cache
+/Users/fatmasaal/Projects/CountdownConsole/CountdownConsole/Data/obj/Debug/netcoreapp3.1/ConsoleTest.AssemblyInfo.cs
+/Users/fatmasaal/Projects/CountdownConsole/CountdownConsole/Data/obj/Debug/netcoreapp3.1/ConsoleTest.csproj.CoreCompileInputs.cache
+/Users/fatmasaal/Projects/CountdownConsole/CountdownConsole/Data/bin/Debug/netcoreapp3.1/ConsoleTest.deps.json
+/Users/fatmasaal/Projects/CountdownConsole/CountdownConsole/Data/bin/Debug/netcoreapp3.1/ConsoleTest.runtimeconfig.json
+/Users/fatmasaal/Projects/CountdownConsole/CountdownConsole/Data/bin/Debug/netcoreapp3.1/ConsoleTest.runtimeconfig.dev.json
+/Users/fatmasaal/Projects/CountdownConsole/CountdownConsole/Data/bin/Debug/netcoreapp3.1/ConsoleTest.dll
+/Users/fatmasaal/Projects/CountdownConsole/CountdownConsole/Data/bin/Debug/netcoreapp3.1/ConsoleTest.pdb
+/Users/fatmasaal/Projects/CountdownConsole/CountdownConsole/Data/obj/Debug/netcoreapp3.1/ConsoleTest.dll
+/Users/fatmasaal/Projects/CountdownConsole/CountdownConsole/Data/obj/Debug/netcoreapp3.1/ConsoleTest.pdb
+/Users/fatmasaal/Projects/CountdownConsole/CountdownConsole/Data/obj/Debug/netcoreapp3.1/ConsoleTest.genruntimeconfig.cache

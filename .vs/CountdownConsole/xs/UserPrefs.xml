@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{CA4565A5-B3F4-49D8-8644-C4B18FCC48DE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CountdownConsole/Data/Program.cs">
+    <Files>
+      <File FileName="CountdownConsole/Data/TimerCD.cs" Line="11" Column="19" />
+      <File FileName="CountdownConsole/Startup.cs" Line="1" Column="1" />
+      <File FileName="CountdownConsole/Data/Program.cs" Line="9" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CountdownConsole" expanded="True">
+            <Node name="CountdownConsole" expanded="True">
+              <Node name="Data" expanded="True">
+                <Node name="Program.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="CountdownConsole" expanded="True">
+            <Node name="CountdownConsole" expanded="True">
+              <Node name="CountdownConsole" expanded="True">
+                <Node name="CountdownConsole.Program" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CountdownConsole PreferredExecutionTarget="/Applications/Firefox.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
